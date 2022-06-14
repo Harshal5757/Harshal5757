@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @Harshal5757
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-  * Java
-  * Spring
-  * Spring Boot
-  * Angular
-  * React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[Harshal Chaudhari](https://github.com/Harshal5757) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<!---
-Harshal5757/Harshal5757 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile views] (https://gpvc.arturio.dev/Harshal5757)
