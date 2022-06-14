@@ -2,5 +2,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/Harshal5757)
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=Harshal5757&&show_icons=true&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshal5757&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal5757"/>|
 ---
